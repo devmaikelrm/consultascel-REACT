@@ -1,0 +1,1 @@
+// JS funcional de Supabase y lógica de login, register, recovery, OAuth y Realtime
